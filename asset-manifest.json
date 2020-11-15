@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sayKarenWork/static/css/main.98405fa2.chunk.css",
+    "main.js": "/sayKarenWork/static/js/main.506fd1a7.chunk.js",
+    "main.js.map": "/sayKarenWork/static/js/main.506fd1a7.chunk.js.map",
+    "runtime-main.js": "/sayKarenWork/static/js/runtime-main.e96286b3.js",
+    "runtime-main.js.map": "/sayKarenWork/static/js/runtime-main.e96286b3.js.map",
+    "static/js/2.1f22538d.chunk.js": "/sayKarenWork/static/js/2.1f22538d.chunk.js",
+    "static/js/2.1f22538d.chunk.js.map": "/sayKarenWork/static/js/2.1f22538d.chunk.js.map",
+    "static/js/3.5ecc7c19.chunk.js": "/sayKarenWork/static/js/3.5ecc7c19.chunk.js",
+    "static/js/3.5ecc7c19.chunk.js.map": "/sayKarenWork/static/js/3.5ecc7c19.chunk.js.map",
+    "index.html": "/sayKarenWork/index.html",
+    "static/css/main.98405fa2.chunk.css.map": "/sayKarenWork/static/css/main.98405fa2.chunk.css.map",
+    "static/js/2.1f22538d.chunk.js.LICENSE.txt": "/sayKarenWork/static/js/2.1f22538d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e96286b3.js",
+    "static/js/2.1f22538d.chunk.js",
+    "static/css/main.98405fa2.chunk.css",
+    "static/js/main.506fd1a7.chunk.js"
+  ]
+}
