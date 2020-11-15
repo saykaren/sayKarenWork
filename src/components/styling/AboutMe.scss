@@ -1,0 +1,27 @@
+
+.services,
+.faq {
+  display: flex;
+  flex-direction: row;
+  color: black;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.serviceSingleSection,
+.faqBox {
+  padding: 2.5rem;
+  width: 27rem;
+  border: 0.2rem solid black;
+  position: relative;
+  margin: 1rem;
+  background-color: #e6e6e6;
+  box-shadow: 0 0 10px black;
+}
+
+.serviceHeading,
+.faqQuestion {
+  border-bottom: 0.1rem solid black;
+  font-size: 1.5rem;
+  font-weight: bolder;
+}

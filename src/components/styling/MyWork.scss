@@ -1,0 +1,36 @@
+.workImg {
+    width: 100%;
+  }
+  
+  #workContainer {
+    display: flex;
+    flex-direction: row;
+    color: black;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .workDetails {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .workPortfolio {
+    border: 0.2rem solid white;
+    width: 30rem;
+    height: 28rem;
+    margin: 1rem;
+    background-color: #d1d1d1;
+    padding: 0.2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    opacity: 0.5;
+  }
+  
+  .workPortfolio:hover {
+    transition-duration: 1.5s;
+    opacity: 0.9;
+    box-shadow: 0 0 10px black;
+  }
+  

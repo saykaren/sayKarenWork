@@ -1,0 +1,62 @@
+.navBar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 1.3rem;
+    flex-wrap: wrap;
+    padding: 1rem;
+    z-index: 1;
+    position: fixed;
+    background-color: $menu-color;
+    opacity: 0.6;
+    border-radius: 10px;
+  }
+  
+  .navBar a {
+    text-decoration: none;
+    padding: 10px;
+    color: $primary-color;
+  }
+  
+  #navButton {
+    padding: 10px;
+    z-index: 2;
+    position: fixed;
+    margin: 10px;
+    font-size: 30px;
+    
+  }
+  
+  .navLink a:hover {
+    color: #d1d1d1;
+    cursor: pointer;
+  }
+  
+  .navLink a:hover + .subNavLink {
+    display: block;
+  }
+  
+  .navLink {
+    text-align: center;
+    border: 1px solid white;
+    border-radius: 25px;
+    margin: 10px;
+    background-color: white;
+    width: 15rem;
+    height: 2rem;
+  }
+  
+  .subNavLink:hover {
+    display: block;
+    opacity: 0.5;
+  }
+  
+  .subNavLink {
+    text-align: center;
+    margin: 10px;
+    width: 13rem;
+    display: none;
+    background: white;
+    border-radius: 25px;
+  }
+  
