@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import sayKarenLogoWhite from '../../assets/sayKaren_logo-white_8.1.2019.png';
+import sayKarenLogoWhite from '../assets/sayKarenWhite.png';
 
 const InputRequest = () => {
   const [request, setRequest] = useState('....Build me a website');

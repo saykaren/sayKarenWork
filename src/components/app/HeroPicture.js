@@ -1,5 +1,5 @@
 import React from 'react';
-import karenHero from '../../assets/Karen_Garcia_portfolio copy.jpg';
+import karenHero from '../assets/Karen_Garcia_portfolio.jpg'
 
 const HeroSection = () => (
   <main className="heroSection" id="heroImage">

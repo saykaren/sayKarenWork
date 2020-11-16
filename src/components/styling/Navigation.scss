@@ -1,21 +1,25 @@
 .navBar {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
     font-size: 1.3rem;
     flex-wrap: wrap;
     padding: 1rem;
+    padding-top: 50px;
     z-index: 1;
     position: fixed;
     background-color: $menu-color;
     opacity: 0.6;
     border-radius: 10px;
+    height: 100vh;
+    min-width: 25%;
   }
   
   .navBar a {
     text-decoration: none;
     padding: 10px;
     color: $primary-color;
+  
   }
   
   #navButton {

@@ -1,18 +1,19 @@
 import React from 'react';
-import freeCodeCamp from '../../assets/Karen_freeCodeCamp_Certificate_Responsive_Web_Design_2.13.2019.png';
-import ReactWebsite from '../../assets/React_Website_ES6_8.1.2019.png';
-import NumberGif from '../../assets/Number_Guesser.gif';
-import Bomdigity from '../../assets/Bomdigity.gif';
-import flashcard from '../../assets/flashcard-starter.gif';
-import check from '../../assets/checkwritting.png';
-import GitFitter from '../../assets/GitFitter.gif';
-import businessFinancial from '../../assets/businessFinancial.png';
-import ColorsRedux from '../../assets/ColorsRedux_10.2019.gif';
-import FIRE from '../../assets/FIRE.png';
-import AddressBook from '../../assets/AddressBookPic.png';
-import MortgageBeGone from '../../assets/MortgageBeGone.jpeg';
-import SinkingFund from '../../assets/SinkingFundJpeg.jpeg';
-import Recipe from '../../assets/Recipe.jpeg';
+import freeCodeCamp from '../assets/Karen_freeCodeCamp_Certificate_Responsive_Web_Design_2.13.2019.png';
+import ReactWebsite from '../assets/React_Website_ES6_8.1.2019.png';
+import NumberGif from '../assets/Number_Guesser.gif';
+import Bomdigity from '../assets/Bomdigity.gif';
+import flashcard from '../assets/flashcard-starter.gif';
+import check from '../assets/checkwritting.png';
+import GitFitter from '../assets/GitFitter.gif';
+import businessFinancial from '../assets/businessFinancial.png';
+import ColorsRedux from '../assets/ColorsRedux_10.2019.gif';
+import FIRE from '../assets/FIRE.png';
+import AddressBook from '../assets/AddressBookPic.png';
+
+import MortgageBeGone from '../assets/MortgageBeGone.jpeg';
+import SinkingFund from '../assets/SinkingFundJpeg.jpeg';
+import Recipe from '../assets/Recipe.jpeg';
 
 const MyWork = () => (
   <div>

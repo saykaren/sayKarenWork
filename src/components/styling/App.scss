@@ -7,8 +7,11 @@
 @import './MyWork.scss';
 
 
-.App {
+html {
     text-align: center;
+    background-color: $primary-color;
+    height: 100vh;
+
   }
   
   .App-logo {
@@ -46,3 +49,7 @@
     }
   }
   
+  #stateChange {
+    padding: 30px;
+    font-size: 30px;
+  }
