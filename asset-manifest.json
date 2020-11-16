@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sayKarenWork/static/css/main.1e3823b6.chunk.css",
+    "main.css": "/sayKarenWork/static/css/main.bf7f0738.chunk.css",
     "main.js": "/sayKarenWork/static/js/main.00ef9a9b.chunk.js",
     "main.js.map": "/sayKarenWork/static/js/main.00ef9a9b.chunk.js.map",
     "runtime-main.js": "/sayKarenWork/static/js/runtime-main.4e3352d8.js",
@@ -10,7 +10,7 @@
     "static/js/3.aa68b6e1.chunk.js": "/sayKarenWork/static/js/3.aa68b6e1.chunk.js",
     "static/js/3.aa68b6e1.chunk.js.map": "/sayKarenWork/static/js/3.aa68b6e1.chunk.js.map",
     "index.html": "/sayKarenWork/index.html",
-    "static/css/main.1e3823b6.chunk.css.map": "/sayKarenWork/static/css/main.1e3823b6.chunk.css.map",
+    "static/css/main.bf7f0738.chunk.css.map": "/sayKarenWork/static/css/main.bf7f0738.chunk.css.map",
     "static/js/2.1a7ee417.chunk.js.LICENSE.txt": "/sayKarenWork/static/js/2.1a7ee417.chunk.js.LICENSE.txt",
     "static/media/AddressBookPic.b56939df.png": "/sayKarenWork/static/media/AddressBookPic.b56939df.png",
     "static/media/Bomdigity.63445ae6.gif": "/sayKarenWork/static/media/Bomdigity.63445ae6.gif",
@@ -33,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.4e3352d8.js",
     "static/js/2.1a7ee417.chunk.js",
-    "static/css/main.1e3823b6.chunk.css",
+    "static/css/main.bf7f0738.chunk.css",
     "static/js/main.00ef9a9b.chunk.js"
   ]
 }
