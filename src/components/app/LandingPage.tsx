@@ -31,9 +31,6 @@ const LandingPage = ({activeItem}: LandingPageProps) => {
       {activeItem === "MyWork" && <MyWork/>}
       {activeItem === "AboutMe" && <AboutMe/>}
       {activeItem === "ContactMe" && <ContactMe/>}
-      <a href="https://saykaren.github.io/OldSchool/" target="_blank" rel="noopener noreferrer" id="Greyson">
-      Greyson
-    </a>
     </>
   );
 };

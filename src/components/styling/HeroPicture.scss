@@ -1,15 +1,17 @@
+@import './variables.scss';
+
 #heroContactPic {
     width: 10rem;
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-top: 1rem;
-    box-shadow: 0 0 10px black;
+    box-shadow: 0 0 10px $dark-color;
     border-radius: 2px;
   }
   
   .heroSection {
-    color: white;
+    color: $light-color;
     height: 37%;
     padding: 30px;
   }
@@ -17,7 +19,7 @@
   #heroText2 {
     font-size: 4rem;
     text-align: center;
-    text-shadow: 0 0 10px black;
+    text-shadow: 0 0 10px $dark-color;
   }
   
   #heroTitle {
