@@ -10,7 +10,7 @@ import businessFinancial from "../assets/businessFinancial.png";
 import ColorsRedux from "../assets/ColorsRedux_10.2019.gif";
 import FIRE from "../assets/FIRE.png";
 import AddressBook from "../assets/AddressBookPic.png";
-
+import OldSchool from "../assets/OldSchool.jpeg";
 import MortgageBeGone from "../assets/MortgageBeGone.jpeg";
 import SinkingFund from "../assets/SinkingFundJpeg.jpeg";
 import Recipe from "../assets/Recipe.jpeg";
@@ -27,6 +27,14 @@ const MyWork = () => (
         demonstratesWork={"React, TypeScript, SCSS and Modal"}
         codeLink="https://github.com/saykaren/sayKarenRecipes"
         liveLink="https://saykaren.github.io/sayKarenRecipes/"
+      />
+      <WorkContainer
+        source={OldSchool}
+        altString="OldSchool"
+        workName="Old School"
+        demonstratesWork={`React Class Components and SCSS`}
+        codeLink="https://github.com/saykaren/OldSchool"
+        liveLink="https://saykaren.github.io/OldSchool/"
       />
       <WorkContainer
         source={SinkingFund}
