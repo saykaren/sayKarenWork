@@ -1,3 +1,5 @@
+@import './variables.scss';
+
 .navBar {
     display: flex;
     flex-direction: column;
@@ -32,7 +34,7 @@
   }
   
   .navLink a:hover {
-    color: #d1d1d1;
+    color: $work-background;
     cursor: pointer;
   }
   
@@ -42,10 +44,10 @@
   
   .navLink {
     text-align: center;
-    border: 1px solid white;
+    border: 1px solid $light-color;
     border-radius: 25px;
     margin: 10px;
-    background-color: white;
+    background-color: $light-color;
     width: 15rem;
     height: 2rem;
   }
@@ -60,7 +62,7 @@
     margin: 10px;
     width: 13rem;
     display: none;
-    background: white;
+    background: $light-color;
     border-radius: 25px;
   }
   

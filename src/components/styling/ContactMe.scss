@@ -1,37 +1,38 @@
+@import './variables.scss';
+
 .contactMeDetails {
-    border: 0.2rem solid #00a3da;
-    font-size: 1.5rem;
-    margin: auto;
-    margin-bottom: 0.5rem;
-    background-color: #e6e6e6;
-    position: relative;
-    color: #00a3da;
-    width: 45%;
-    word-wrap: break-word;
-    padding: 1rem;
-    box-shadow: 0 0 10px black;
-    margin-bottom: 1rem;
-  }
-  
-  .contactMe {
-    color: white;
-    font-size: 2rem;
-    padding: 1rem;
-    margin-bottom: 50px;
-  }
-  
-  #contactTitle {
-    text-align: center;
-    padding: 1rem;
-  }
-  
+  border: 0.2rem solid $primary-color;
+  font-size: 1.5rem;
+  margin: auto;
+  margin-bottom: 0.5rem;
+  background-color: $faq;
+  position: relative;
+  color: $primary-color;
+  width: 45%;
+  word-wrap: break-word;
+  padding: 1rem;
+  box-shadow: 0 0 10px $dark-color;
+  margin-bottom: 1rem;
+}
 
-  #stateLogo {
-      display: flex;
-      justify-content: center;
-  }
+.contactMe {
+  color: $light-color;
+  font-size: 2rem;
+  padding: 1rem;
+  margin-bottom: 50px;
+}
 
-  #sayKarenLogoFrontPage {
-      height: 100px;
-      margin-right: -33px;
-  }
+#contactTitle {
+  text-align: center;
+  padding: 1rem;
+}
+
+#stateLogo {
+  display: flex;
+  justify-content: center;
+}
+
+#sayKarenLogoFrontPage {
+  height: 100px;
+  margin-right: -33px;
+}

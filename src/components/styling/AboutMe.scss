@@ -1,9 +1,10 @@
+@import './variables.scss';
 
 .services,
 .faq {
   display: flex;
   flex-direction: row;
-  color: black;
+  color: $dark-color;
   flex-wrap: wrap;
   justify-content: space-around;
 }
@@ -12,16 +13,16 @@
 .faqBox {
   padding: 2.5rem;
   width: 27rem;
-  border: 0.2rem solid black;
+  border: 0.2rem solid $dark-color;
   position: relative;
   margin: 1rem;
-  background-color: #e6e6e6;
-  box-shadow: 0 0 10px black;
+  background-color: $faq;
+  box-shadow: 0 0 10px $dark-color;
 }
 
 .serviceHeading,
 .faqQuestion {
-  border-bottom: 0.1rem solid black;
+  border-bottom: 0.1rem solid $dark-color;
   font-size: 1.5rem;
   font-weight: bolder;
 }
