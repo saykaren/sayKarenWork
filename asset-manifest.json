@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/sayKarenWork/static/css/main.ed97b6d0.chunk.css",
-    "main.js": "/sayKarenWork/static/js/main.c7e22e7f.chunk.js",
-    "main.js.map": "/sayKarenWork/static/js/main.c7e22e7f.chunk.js.map",
-    "runtime-main.js": "/sayKarenWork/static/js/runtime-main.4e3352d8.js",
-    "runtime-main.js.map": "/sayKarenWork/static/js/runtime-main.4e3352d8.js.map",
-    "static/js/2.1a7ee417.chunk.js": "/sayKarenWork/static/js/2.1a7ee417.chunk.js",
-    "static/js/2.1a7ee417.chunk.js.map": "/sayKarenWork/static/js/2.1a7ee417.chunk.js.map",
-    "static/js/3.aa68b6e1.chunk.js": "/sayKarenWork/static/js/3.aa68b6e1.chunk.js",
-    "static/js/3.aa68b6e1.chunk.js.map": "/sayKarenWork/static/js/3.aa68b6e1.chunk.js.map",
+    "main.css": "/sayKarenWork/static/css/main.559089ac.chunk.css",
+    "main.js": "/sayKarenWork/static/js/main.6ec3e79f.chunk.js",
+    "main.js.map": "/sayKarenWork/static/js/main.6ec3e79f.chunk.js.map",
+    "runtime-main.js": "/sayKarenWork/static/js/runtime-main.e33b6c4d.js",
+    "runtime-main.js.map": "/sayKarenWork/static/js/runtime-main.e33b6c4d.js.map",
+    "static/js/2.3fe2107b.chunk.js": "/sayKarenWork/static/js/2.3fe2107b.chunk.js",
+    "static/js/2.3fe2107b.chunk.js.map": "/sayKarenWork/static/js/2.3fe2107b.chunk.js.map",
+    "static/js/3.5849c009.chunk.js": "/sayKarenWork/static/js/3.5849c009.chunk.js",
+    "static/js/3.5849c009.chunk.js.map": "/sayKarenWork/static/js/3.5849c009.chunk.js.map",
     "index.html": "/sayKarenWork/index.html",
-    "static/css/main.ed97b6d0.chunk.css.map": "/sayKarenWork/static/css/main.ed97b6d0.chunk.css.map",
-    "static/js/2.1a7ee417.chunk.js.LICENSE.txt": "/sayKarenWork/static/js/2.1a7ee417.chunk.js.LICENSE.txt",
+    "static/css/main.559089ac.chunk.css.map": "/sayKarenWork/static/css/main.559089ac.chunk.css.map",
+    "static/js/2.3fe2107b.chunk.js.LICENSE.txt": "/sayKarenWork/static/js/2.3fe2107b.chunk.js.LICENSE.txt",
     "static/media/AddressBookPic.b56939df.png": "/sayKarenWork/static/media/AddressBookPic.b56939df.png",
     "static/media/Bomdigity.63445ae6.gif": "/sayKarenWork/static/media/Bomdigity.63445ae6.gif",
     "static/media/ColorsRedux_10.2019.b434c689.gif": "/sayKarenWork/static/media/ColorsRedux_10.2019.b434c689.gif",
@@ -28,13 +28,12 @@
     "static/media/businessFinancial.3b588d91.png": "/sayKarenWork/static/media/businessFinancial.3b588d91.png",
     "static/media/checkwritting.3343b0d8.png": "/sayKarenWork/static/media/checkwritting.3343b0d8.png",
     "static/media/flashcard-starter.a66749ca.gif": "/sayKarenWork/static/media/flashcard-starter.a66749ca.gif",
-    "static/media/sayKarenTransparent.0d90250c.png": "/sayKarenWork/static/media/sayKarenTransparent.0d90250c.png",
-    "static/media/sayKarenWhite.a7e3b86e.png": "/sayKarenWork/static/media/sayKarenWhite.a7e3b86e.png"
+    "static/media/sayKarenTransparent.0d90250c.png": "/sayKarenWork/static/media/sayKarenTransparent.0d90250c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4e3352d8.js",
-    "static/js/2.1a7ee417.chunk.js",
-    "static/css/main.ed97b6d0.chunk.css",
-    "static/js/main.c7e22e7f.chunk.js"
+    "static/js/runtime-main.e33b6c4d.js",
+    "static/js/2.3fe2107b.chunk.js",
+    "static/css/main.559089ac.chunk.css",
+    "static/js/main.6ec3e79f.chunk.js"
   ]
 }
