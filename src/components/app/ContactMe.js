@@ -1,5 +1,7 @@
-import React from 'react';
-import InputRequest from './InputRequest';
+import React from "react";
+import business from "../assets/baseline_business_white_18dp.png";
+import chat from "../assets/Chat.png";
+import email from "../assets/Email.png";
 
 const ContactMe = () => (
   <main className="contactMe">
@@ -7,18 +9,23 @@ const ContactMe = () => (
       <span className="strong">Contact Me</span>
     </section>
     <section id="email" className="contactMeDetails">
-      <i className="fa fa-envelope" aria-hidden="true"></i>
-      <a href="mailto:saykaren@gmail.com" className="App-link">sayKaren@gmail.com</a>
+      <div className="contactLine">
+        <img src={email} alt="email" />
+        <a href="mailto:saykaren@gmail.com" className="App-link">
+          <span className="contactRow">sayKaren@gmail.com</span>
+        </a>
+      </div>
+      <div className="contactLine">
+        <img src={chat} alt="call" />
+        <a href="tel:+3039468405" className="App-link">
+          <span className="contactRow"> 303.946.8405</span>
+        </a>
+      </div>
+      <div className="contactLine">
+        <img src={business} alt="Location" />{" "}
+        <span className="contactRow">Thornton, CO</span>
+      </div>
     </section>
-    <section id="phone" className="contactMeDetails">
-      <i className="fa fa-phone" aria-hidden="true"></i>
-      <a href="tel:+3039468405" className="App-link">303.946.8405</a>
-    </section>
-    <section id="address" className="contactMeDetails">
-      <i className="fa fa-map-marker" aria-hidden="true"></i>
-      Thornton, CO
-    </section>
-    <InputRequest />
   </main>
 );
 
