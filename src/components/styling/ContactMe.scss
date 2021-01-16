@@ -1,4 +1,4 @@
-@import './variables.scss';
+@import "./variables.scss";
 
 .contactMeDetails {
   border: 0.2rem solid $primary-color;
@@ -8,21 +8,22 @@
   // background-color: $faq;
   // // position: relative;
   // color: $light-color;
-  width: 45%;
-  // word-wrap: break-word;
+  min-width: 45%;
+  max-width: 332px;
+  word-wrap: break-word;
   padding: 1rem;
   margin: 10px;
   box-shadow: 0 0 10px $dark-color;
   border-radius: 10px;
-margin-left: auto;
-margin-right: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.contactLine{
+.contactLine {
   display: flex;
   justify-content: space-between;
 }
-.contactRow{
+.contactRow {
   vertical-align: super;
   padding: 5px;
 }
