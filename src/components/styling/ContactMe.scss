@@ -3,18 +3,29 @@
 .contactMeDetails {
   border: 0.2rem solid $primary-color;
   font-size: 1.5rem;
-  margin: auto;
-  margin-bottom: 0.5rem;
-  background-color: $faq;
-  position: relative;
-  color: $primary-color;
+  // margin: auto;
+  // margin-bottom: 0.5rem;
+  // background-color: $faq;
+  // // position: relative;
+  // color: $light-color;
   width: 45%;
-  word-wrap: break-word;
+  // word-wrap: break-word;
   padding: 1rem;
+  margin: 10px;
   box-shadow: 0 0 10px $dark-color;
-  margin-bottom: 1rem;
+  border-radius: 10px;
+margin-left: auto;
+margin-right: auto;
 }
 
+.contactLine{
+  display: flex;
+  justify-content: space-between;
+}
+.contactRow{
+  vertical-align: super;
+  padding: 5px;
+}
 .contactMe {
   color: $light-color;
   font-size: 2rem;

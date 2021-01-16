@@ -1,10 +1,4 @@
 import React, { useState } from "react";
-// import { BrowserRouter as Router, Switch, Link, Route } from "react-router-dom";
-// import MyWork from "./MyWork";
-// import ContactMe from "./ContactMe";
-// import AboutMe from "./AboutMe";
-// import Home from "./HomeSection";
-// import NotFound from "./NotFound.js";
 
 interface NavigationBarProps {
   toggleActive: (arg1: string) => void;
@@ -25,16 +19,16 @@ const NavigationBar = ({
 
       {navActive && (
         <div className="navBar">
-          <div className="" onClick={() => toggleActive("Home")}>
+          <div className="navBarDetails" onClick={() => toggleActive("Home")}>
             Home
           </div>
-          <div className="" onClick={() => toggleActive("MyWork")}>
+          <div className="navBarDetails" onClick={() => toggleActive("MyWork")}>
             My Work
           </div>
-          <div className="" onClick={() => toggleActive("AboutMe")}>
+          {/* <div className="navBarDetails" onClick={() => toggleActive("AboutMe")}>
             About Me
-          </div>
-          <div className="" onClick={() => toggleActive("ContactMe")}>
+          </div> */}
+          <div className="navBarDetails" onClick={() => toggleActive("ContactMe")}>
             Contact Me
           </div>
         </div>

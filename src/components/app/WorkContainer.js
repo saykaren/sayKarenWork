@@ -1,4 +1,6 @@
 import React from "react";
+import code from "../assets/code.png";
+import Preview from "../assets/Preview.png";
 
 const WorkContainer = ({
   source,
@@ -26,21 +28,22 @@ const WorkContainer = ({
           <span className="workDetails">{workName}</span>
           <span className="strong">Demonstrates:</span>
           <span className="workDetails">{demonstratesWork}</span>
+          
           <a
             href={codeLink}
             target="_blank"
             rel="noopener noreferrer"
-            className="workDetails"
+            className="icon"
           >
-            Code
+           <img src={code} alt="code"/>
           </a>
           <a
             href={liveLink}
             target="_blank"
             rel="noopener noreferrer"
-            className="workDetails"
+            className="icon"
           >
-            Live Site
+            <img src={Preview} alt="Preview"/>
           </a>
         </section>
       </section>
