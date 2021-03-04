@@ -13,8 +13,9 @@ import AddressBook from "../assets/AddressBookPic.png";
 import OldSchool from "../assets/OldSchool.jpeg";
 import MortgageBeGone from "../assets/MortgageBeGone.jpeg";
 import SinkingFund from "../assets/SinkingFundJpeg.jpeg";
-import Recipe from "../assets/Recipe.jpeg";
+import Recipe from "../assets/Recipe21.jpeg";
 import WorkContainer from "./WorkContainer";
+import CheatSheet from "../assets/Cheatsheet.jpeg";
 
 const MyWork = () => (
   <div>
@@ -52,6 +53,14 @@ const MyWork = () => (
         codeLink="https://github.com/saykaren/MortgageBeGone"
         liveLink="https://saykaren.github.io/MortgageBeGone/"
       />
+             <WorkContainer
+        source={CheatSheet}
+        altString="Cheat Sheet"
+        workName="Cheat Sheet"
+        demonstratesWork={`React, Typescript, SCSS and growing knowledge`}
+        codeLink="https://github.com/saykaren/TypescriptCheatSheet"
+        liveLink="https://saykaren.github.io/TypescriptCheatSheet"
+      /> 
       <WorkContainer
         source={AddressBook}
         altString="AddressBook"
