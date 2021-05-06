@@ -15,12 +15,29 @@ import MortgageBeGone from "../assets/MortgageBeGone.jpeg";
 import SinkingFund from "../assets/SinkingFundJpeg.jpeg";
 import Recipe from "../assets/Recipe21.jpeg";
 import WorkContainer from "./WorkContainer";
-import CheatSheet from "../assets/Cheatsheet.jpeg";
+import CheatSheet from "../assets/cheatSheet_21.jpeg";
+import ReactQuery from "../assets/reactQueryExample.jpeg";
 
 const MyWork = () => (
   <div>
     <h1 id="myWork">Work Examples</h1>
     <main id="workContainer">
+      <WorkContainer
+        source={ReactQuery}
+        altString="React Query"
+        workName="Rick and Morty react-query"
+        demonstratesWork={`react-query, React, SCSS and Modal`}
+        codeLink="https://github.com/saykaren/sayPhoto"
+        liveLink="https://saykaren.github.io/sayPhoto/"
+      />
+      <WorkContainer
+        source={CheatSheet}
+        altString="Cheat Sheet"
+        workName="Cheat Sheet"
+        demonstratesWork={`React, Typescript, SCSS and growing knowledge`}
+        codeLink="https://github.com/saykaren/TypescriptCheatSheet"
+        liveLink="https://saykaren.github.io/TypescriptCheatSheet"
+      />
       <WorkContainer
         source={Recipe}
         altString="Recipe Box"
@@ -53,14 +70,7 @@ const MyWork = () => (
         codeLink="https://github.com/saykaren/MortgageBeGone"
         liveLink="https://saykaren.github.io/MortgageBeGone/"
       />
-             <WorkContainer
-        source={CheatSheet}
-        altString="Cheat Sheet"
-        workName="Cheat Sheet"
-        demonstratesWork={`React, Typescript, SCSS and growing knowledge`}
-        codeLink="https://github.com/saykaren/TypescriptCheatSheet"
-        liveLink="https://saykaren.github.io/TypescriptCheatSheet"
-      /> 
+
       <WorkContainer
         source={AddressBook}
         altString="AddressBook"
