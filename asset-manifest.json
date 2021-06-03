@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/sayKarenWork/static/css/main.97e4107c.chunk.css",
-    "main.js": "/sayKarenWork/static/js/main.930d8bf9.chunk.js",
-    "main.js.map": "/sayKarenWork/static/js/main.930d8bf9.chunk.js.map",
+    "main.css": "/sayKarenWork/static/css/main.17fdb870.chunk.css",
+    "main.js": "/sayKarenWork/static/js/main.78b6beaa.chunk.js",
+    "main.js.map": "/sayKarenWork/static/js/main.78b6beaa.chunk.js.map",
     "runtime-main.js": "/sayKarenWork/static/js/runtime-main.e33b6c4d.js",
     "runtime-main.js.map": "/sayKarenWork/static/js/runtime-main.e33b6c4d.js.map",
     "static/js/2.3fe2107b.chunk.js": "/sayKarenWork/static/js/2.3fe2107b.chunk.js",
@@ -10,12 +10,13 @@
     "static/js/3.5849c009.chunk.js": "/sayKarenWork/static/js/3.5849c009.chunk.js",
     "static/js/3.5849c009.chunk.js.map": "/sayKarenWork/static/js/3.5849c009.chunk.js.map",
     "index.html": "/sayKarenWork/index.html",
-    "static/css/main.97e4107c.chunk.css.map": "/sayKarenWork/static/css/main.97e4107c.chunk.css.map",
+    "static/css/main.17fdb870.chunk.css.map": "/sayKarenWork/static/css/main.17fdb870.chunk.css.map",
     "static/js/2.3fe2107b.chunk.js.LICENSE.txt": "/sayKarenWork/static/js/2.3fe2107b.chunk.js.LICENSE.txt",
     "static/media/AddressBookPic.b56939df.png": "/sayKarenWork/static/media/AddressBookPic.b56939df.png",
     "static/media/Bomdigity.63445ae6.gif": "/sayKarenWork/static/media/Bomdigity.63445ae6.gif",
     "static/media/ColorsRedux_10.2019.b434c689.gif": "/sayKarenWork/static/media/ColorsRedux_10.2019.b434c689.gif",
     "static/media/FIRE.8c6808ac.png": "/sayKarenWork/static/media/FIRE.8c6808ac.png",
+    "static/media/FirstWebsite.ee3a9f84.jpeg": "/sayKarenWork/static/media/FirstWebsite.ee3a9f84.jpeg",
     "static/media/GitFitter.aeb43707.gif": "/sayKarenWork/static/media/GitFitter.aeb43707.gif",
     "static/media/Karen_Garcia_portfolio.038cead1.jpg": "/sayKarenWork/static/media/Karen_Garcia_portfolio.038cead1.jpg",
     "static/media/Karen_freeCodeCamp_Certificate_Responsive_Web_Design_2.13.2019.f5a73d1e.png": "/sayKarenWork/static/media/Karen_freeCodeCamp_Certificate_Responsive_Web_Design_2.13.2019.f5a73d1e.png",
@@ -24,18 +25,19 @@
     "static/media/OldSchool.0ca34e1b.jpeg": "/sayKarenWork/static/media/OldSchool.0ca34e1b.jpeg",
     "static/media/React_Website_ES6_8.1.2019.33e7dc4e.png": "/sayKarenWork/static/media/React_Website_ES6_8.1.2019.33e7dc4e.png",
     "static/media/Recipe21.6caf68b0.jpeg": "/sayKarenWork/static/media/Recipe21.6caf68b0.jpeg",
+    "static/media/RickMorty2.99ad1d1d.jpeg": "/sayKarenWork/static/media/RickMorty2.99ad1d1d.jpeg",
     "static/media/SinkingFundJpeg.c282eaa6.jpeg": "/sayKarenWork/static/media/SinkingFundJpeg.c282eaa6.jpeg",
+    "static/media/breakingBad.63c2dcf1.jpeg": "/sayKarenWork/static/media/breakingBad.63c2dcf1.jpeg",
     "static/media/businessFinancial.3b588d91.png": "/sayKarenWork/static/media/businessFinancial.3b588d91.png",
     "static/media/cheatSheet_21.138f686b.jpeg": "/sayKarenWork/static/media/cheatSheet_21.138f686b.jpeg",
     "static/media/checkwritting.3343b0d8.png": "/sayKarenWork/static/media/checkwritting.3343b0d8.png",
     "static/media/flashcard-starter.a66749ca.gif": "/sayKarenWork/static/media/flashcard-starter.a66749ca.gif",
-    "static/media/reactQueryExample.b981f1dd.jpeg": "/sayKarenWork/static/media/reactQueryExample.b981f1dd.jpeg",
     "static/media/sayKarenTransparent.0d90250c.png": "/sayKarenWork/static/media/sayKarenTransparent.0d90250c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e33b6c4d.js",
     "static/js/2.3fe2107b.chunk.js",
-    "static/css/main.97e4107c.chunk.css",
-    "static/js/main.930d8bf9.chunk.js"
+    "static/css/main.17fdb870.chunk.css",
+    "static/js/main.78b6beaa.chunk.js"
   ]
 }
