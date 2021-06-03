@@ -24,7 +24,7 @@ const App = () => {
           navActive={navActive}
           toggleNavMenu={toggleNavMenu}
         />
-        <LandingPage activeItem={activeItem} />
+        <LandingPage activeItem={activeItem} setNavActive={setNavActive}/>
       </div>
       <Footer />
     </>
