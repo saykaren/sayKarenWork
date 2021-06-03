@@ -16,17 +16,28 @@ import SinkingFund from "../assets/SinkingFundJpeg.jpeg";
 import Recipe from "../assets/Recipe21.jpeg";
 import WorkContainer from "./WorkContainer";
 import CheatSheet from "../assets/cheatSheet_21.jpeg";
-import ReactQuery from "../assets/reactQueryExample.jpeg";
+import ReactQuery from "../assets/RickMorty2.jpeg";
+import breakingBad from "../assets/breakingBad.jpeg";
+import FirstWebsite from "../assets/FirstWebsite.jpeg";
 
 const MyWork = () => (
   <div>
     <h1 id="myWork">Work Examples</h1>
     <main id="workContainer">
       <WorkContainer
+        source={breakingBad}
+        altString="Breaking Bad"
+        workName="Breaking Bad Table"
+        demonstratesWork={`Filter, sort, map, react-query, Enzyme/Jest testing, SCSS and modals`}
+        codeLink="https://github.com/saykaren/BreakingBad"
+        liveLink="https://saykaren.github.io/BreakingBad/"
+      />
+
+      <WorkContainer
         source={ReactQuery}
         altString="React Query"
         workName="Rick and Morty react-query"
-        demonstratesWork={`react-query, React, SCSS and Modal`}
+        demonstratesWork={`react-query, React, SCSS and modal`}
         codeLink="https://github.com/saykaren/sayPhoto"
         liveLink="https://saykaren.github.io/sayPhoto/"
       />
@@ -145,6 +156,14 @@ const MyWork = () => (
         codeLink=""
         liveLink=""
       /> */}
+      <WorkContainer
+        source={FirstWebsite}
+        altString="FIRST WEBSITE"
+        workName="First Website"
+        demonstratesWork={`My learning curve`}
+        codeLink="https://github.com/saykaren/WarrenBuffett"
+        liveLink="https://saykaren.github.io/WarrenBuffett/"
+      />
       <section className="workPortfolio">
         <section className="front">
           <a

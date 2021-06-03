@@ -14,13 +14,13 @@ const WorkContainer = ({
     <>
       <section className="workPortfolio">
         <section className="front">
-        <a
+          <a
             href={liveLink}
             target="_blank"
             rel="noopener noreferrer"
             className="workDetails"
           >
-          <img src={source} className="workImg front" alt={altString} />
+            <img src={source} className="workImg front" alt={altString} />
           </a>
         </section>
         <section className="back">
@@ -28,14 +28,14 @@ const WorkContainer = ({
           <span className="workDetails">{workName}</span>
           <span className="strong">Demonstrates:</span>
           <span className="workDetails">{demonstratesWork}</span>
-          
+
           <a
             href={codeLink}
             target="_blank"
             rel="noopener noreferrer"
             className="icon"
           >
-           <img src={code} alt="code"/>
+            <img src={code} alt="code" />
           </a>
           <a
             href={liveLink}
@@ -43,7 +43,7 @@ const WorkContainer = ({
             rel="noopener noreferrer"
             className="icon"
           >
-            <img src={Preview} alt="Preview"/>
+            <img src={Preview} alt="Preview" />
           </a>
         </section>
       </section>
