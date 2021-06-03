@@ -4,7 +4,7 @@ Portfolio to demonstrate my work and quick links to all my work.
 
 # Create React App
 
-[Live Website](https://saykaren.com/)
+[Live Website](http://saykaren.com/)
 
 ## Available Scripts
 

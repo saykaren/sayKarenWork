@@ -15,7 +15,7 @@ const Footer = () => (
         alt="sayKaren.com"
       />
     </a>
-    <a href="http://saykaren.com" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/saykaren/sayKarenWork" target="_blank" rel="noopener noreferrer">
       <img
         src={developer}
         className="floatRight"
