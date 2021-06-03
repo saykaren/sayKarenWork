@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sayKarenWork/static/css/main.17fdb870.chunk.css",
-    "main.js": "/sayKarenWork/static/js/main.78b6beaa.chunk.js",
-    "main.js.map": "/sayKarenWork/static/js/main.78b6beaa.chunk.js.map",
+    "main.js": "/sayKarenWork/static/js/main.36d99518.chunk.js",
+    "main.js.map": "/sayKarenWork/static/js/main.36d99518.chunk.js.map",
     "runtime-main.js": "/sayKarenWork/static/js/runtime-main.e33b6c4d.js",
     "runtime-main.js.map": "/sayKarenWork/static/js/runtime-main.e33b6c4d.js.map",
     "static/js/2.3fe2107b.chunk.js": "/sayKarenWork/static/js/2.3fe2107b.chunk.js",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.e33b6c4d.js",
     "static/js/2.3fe2107b.chunk.js",
     "static/css/main.17fdb870.chunk.css",
-    "static/js/main.78b6beaa.chunk.js"
+    "static/js/main.36d99518.chunk.js"
   ]
 }
