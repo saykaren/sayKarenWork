@@ -1,34 +1,40 @@
-@import './variables.scss';
-@import './Footer.scss';
-@import './Navigation.scss';
-@import './AboutMe.scss';
-@import './ContactMe.scss';
-@import './HeroPicture.scss';
-@import './MyWork.scss';
+@import "./variables.scss";
+@import "./Footer.scss";
+@import "./Navigation.scss";
+@import "./AboutMe.scss";
+@import "./ContactMe.scss";
+@import "./HeroPicture.scss";
+@import "./MyWork.scss";
 
+#App {
+  margin-bottom: 60px;
+}
 
 html {
-    text-align: center;
-    background-color: $primary-color;
-  }
-  
-  .App-logo {
-    height: 40vmin;
-    pointer-events: none;
-  }
-      
-  .App-link {
-    color: $light-color;
-    text-shadow: 1px 1px $dark-color;
-  }
-   
+  text-align: center;
+  background-color: $primary-color;
+}
 
-  #Greyson {
-    text-decoration: none;
-    color: $primary-color;
-  }
-  
-  #stateChange {
-    padding: 30px;
-    font-size: 30px;
-  }
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-link {
+  color: $light-color;
+  text-shadow: 1px 1px $dark-color;
+}
+
+#Greyson {
+  text-decoration: none;
+  color: $primary-color;
+}
+
+#stateChange {
+  padding: 30px;
+  font-size: 30px;
+}
+
+.strong {
+  font-weight: bold;
+}
