@@ -17,7 +17,7 @@ import Recipe from "../assets/Recipe21.jpeg";
 import WorkContainer from "./WorkContainer";
 import CheatSheet from "../assets/cheatSheet_21.jpeg";
 import ReactQuery from "../assets/RickMorty2.jpeg";
-import breakingBad from "../assets/breakingBad.jpeg";
+import breakingBad from "../assets/breakBadJune.jpeg";
 import FirstWebsite from "../assets/FirstWebsite.jpeg";
 
 const MyWork = () => (
