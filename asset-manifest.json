@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sayKarenWork/static/css/main.ca87b328.chunk.css",
-    "main.js": "/sayKarenWork/static/js/main.6ca0b46b.chunk.js",
-    "main.js.map": "/sayKarenWork/static/js/main.6ca0b46b.chunk.js.map",
+    "main.js": "/sayKarenWork/static/js/main.ef369d4a.chunk.js",
+    "main.js.map": "/sayKarenWork/static/js/main.ef369d4a.chunk.js.map",
     "runtime-main.js": "/sayKarenWork/static/js/runtime-main.e33b6c4d.js",
     "runtime-main.js.map": "/sayKarenWork/static/js/runtime-main.e33b6c4d.js.map",
     "static/js/2.3fe2107b.chunk.js": "/sayKarenWork/static/js/2.3fe2107b.chunk.js",
@@ -27,7 +27,7 @@
     "static/media/Recipe21.6caf68b0.jpeg": "/sayKarenWork/static/media/Recipe21.6caf68b0.jpeg",
     "static/media/RickMorty2.99ad1d1d.jpeg": "/sayKarenWork/static/media/RickMorty2.99ad1d1d.jpeg",
     "static/media/SinkingFundJpeg.c282eaa6.jpeg": "/sayKarenWork/static/media/SinkingFundJpeg.c282eaa6.jpeg",
-    "static/media/breakingBad.63c2dcf1.jpeg": "/sayKarenWork/static/media/breakingBad.63c2dcf1.jpeg",
+    "static/media/breakBadJune.4ef4b759.jpeg": "/sayKarenWork/static/media/breakBadJune.4ef4b759.jpeg",
     "static/media/businessFinancial.3b588d91.png": "/sayKarenWork/static/media/businessFinancial.3b588d91.png",
     "static/media/cheatSheet_21.138f686b.jpeg": "/sayKarenWork/static/media/cheatSheet_21.138f686b.jpeg",
     "static/media/checkwritting.3343b0d8.png": "/sayKarenWork/static/media/checkwritting.3343b0d8.png",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.e33b6c4d.js",
     "static/js/2.3fe2107b.chunk.js",
     "static/css/main.ca87b328.chunk.css",
-    "static/js/main.6ca0b46b.chunk.js"
+    "static/js/main.ef369d4a.chunk.js"
   ]
 }
