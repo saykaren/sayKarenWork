@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sayKarenWork/static/css/main.ca87b328.chunk.css",
-    "main.js": "/sayKarenWork/static/js/main.ef369d4a.chunk.js",
-    "main.js.map": "/sayKarenWork/static/js/main.ef369d4a.chunk.js.map",
+    "main.js": "/sayKarenWork/static/js/main.9db04df4.chunk.js",
+    "main.js.map": "/sayKarenWork/static/js/main.9db04df4.chunk.js.map",
     "runtime-main.js": "/sayKarenWork/static/js/runtime-main.e33b6c4d.js",
     "runtime-main.js.map": "/sayKarenWork/static/js/runtime-main.e33b6c4d.js.map",
     "static/js/2.3fe2107b.chunk.js": "/sayKarenWork/static/js/2.3fe2107b.chunk.js",
@@ -31,6 +31,7 @@
     "static/media/businessFinancial.3b588d91.png": "/sayKarenWork/static/media/businessFinancial.3b588d91.png",
     "static/media/cheatSheet_21.138f686b.jpeg": "/sayKarenWork/static/media/cheatSheet_21.138f686b.jpeg",
     "static/media/checkwritting.3343b0d8.png": "/sayKarenWork/static/media/checkwritting.3343b0d8.png",
+    "static/media/drugSearch.91bfe945.jpeg": "/sayKarenWork/static/media/drugSearch.91bfe945.jpeg",
     "static/media/flashcard-starter.a66749ca.gif": "/sayKarenWork/static/media/flashcard-starter.a66749ca.gif",
     "static/media/sayKarenTransparent.0d90250c.png": "/sayKarenWork/static/media/sayKarenTransparent.0d90250c.png"
   },
@@ -38,6 +39,6 @@
     "static/js/runtime-main.e33b6c4d.js",
     "static/js/2.3fe2107b.chunk.js",
     "static/css/main.ca87b328.chunk.css",
-    "static/js/main.ef369d4a.chunk.js"
+    "static/js/main.9db04df4.chunk.js"
   ]
 }
