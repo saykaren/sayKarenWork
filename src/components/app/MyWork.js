@@ -19,6 +19,7 @@ import CheatSheet from "../assets/cheatSheet_21.jpeg";
 import ReactQuery from "../assets/RickMorty2.jpeg";
 import breakingBad from "../assets/breakBadJune.jpeg";
 import FirstWebsite from "../assets/FirstWebsite.jpeg";
+import drugSearch from "../assets/drugSearch.jpeg";
 
 const MyWork = () => (
   <div>
@@ -32,7 +33,6 @@ const MyWork = () => (
         codeLink="https://github.com/saykaren/BreakingBad"
         liveLink="https://saykaren.github.io/BreakingBad/"
       />
-
       <WorkContainer
         source={ReactQuery}
         altString="React Query"
@@ -41,6 +41,15 @@ const MyWork = () => (
         codeLink="https://github.com/saykaren/sayPhoto"
         liveLink="https://saykaren.github.io/sayPhoto/"
       />
+      <WorkContainer
+        source={drugSearch}
+        altString="FDA API Search"
+        workName="FDA API Prescription Drug Search"
+        demonstratesWork={`map, react-query, SCSS and API fetching`}
+        codeLink="https://github.com/saykaren/DrugSearch"
+        liveLink="http://saykaren.github.io/DrugSearch"
+      />
+
       <WorkContainer
         source={CheatSheet}
         altString="Cheat Sheet"
